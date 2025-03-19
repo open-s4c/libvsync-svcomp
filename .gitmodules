@@ -1,0 +1,3 @@
+[submodule "libvsync"]
+	path = libvsync
+	url = https://github.com/open-s4c/libvsync
